@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Project 3 - Qbell\Project 3 - Qbell\main.c(72,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Project 3 - Qbell\Project 3 - Qbell\main.c(70,6): warning C4101: 'j': unreferenced local variable
+C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Project 3 - Qbell\Project 3 - Qbell\main.c(287,9): warning C4129: '*': unrecognized character escape sequence
+  Project 3 - Qbell.vcxproj -> C:\Users\QUE-PC-23\Nextcloud2\School\School Archive\ENG175\Project 3 - Qbell\Debug\Project 3 - Qbell.exe
